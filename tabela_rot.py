@@ -11,6 +11,6 @@ class Tabela_Rot:
 # Exibição da tabela de roteamento
 def table(self):
     print("Tabela de Roteamento:")
-    print("====================")
+    print("#######################################################")
     for destino, next_hop, metrica in route_table.items():
         print(f"{destino} -> {next_hop} -> {metrica}")
