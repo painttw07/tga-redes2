@@ -1,4 +1,7 @@
 # tga-redes2
+Nome: Pâmela Santos
+Disciplina: Redes 2
+Professor: Cristiano
 
 FILE: exec.py (main) ___________________________________________________________________________________
 Foi usada a biblioteca do python "Socket" para lidar com as conexões (entrada e saída). 
