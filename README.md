@@ -2,6 +2,7 @@
 Nome: Pâmela Santos
 Disciplina: Redes 2
 Professor: Cristiano
+Linguagem escolhida: Python
 
 FILE: exec.py (main) ___________________________________________________________________________________
 
