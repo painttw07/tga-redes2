@@ -12,3 +12,4 @@ FILE: tabela_rot.py ____________________________________________________________
 Definição da tabela com as informações da tabela a serem exibidas -> destino, proximo salto (saída) e métrica (deveria ser definida por cada aluno).
 
 FILE: dados.py ________________________________________________________________________________________
+Definição dos dados a serem mandados requisitados pela definição do trabalho -> endereço origem, endereço destino, TTL e TOS.
