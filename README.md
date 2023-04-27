@@ -4,7 +4,7 @@ Disciplina: Redes 2
 Professor: Cristiano
 Linguagem escolhida: Python
 
-FILE: exec.py (main) ___________________________________________________________________________________
+FILE: exec.py ___________________________________________________________________________________
 
 Foi usada a biblioteca do python "Socket" para lidar com as conexões (entrada e saída). 
 Como exemplo de um roteador simples: foi setada o roteador com o endereço IP "127.0.0.1" e a porta "2402", e em seguida foi feita a criação dos sockets do roteador. 
