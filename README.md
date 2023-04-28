@@ -4,6 +4,8 @@ Disciplina: Redes 2
 Professor: Cristiano
 Linguagem escolhida: Python
 
+Principal file: exec.py -> roteador
+
 FILE: exec.py ___________________________________________________________________________________
 
 Foi usada a biblioteca do python "Socket" para lidar com as conexões (entrada e saída). 
