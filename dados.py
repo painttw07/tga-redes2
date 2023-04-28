@@ -9,6 +9,6 @@ class Dados:
         self.orig = ori #endereço origem
         self.dest = dest #endereço destino
         self.TTL = TTL #ttl
-        selft.TOS = TOS #tos
+        self.TOS = TOS #tos
 
 
